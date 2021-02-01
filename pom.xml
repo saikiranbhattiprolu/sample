@@ -9,7 +9,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>javax</groupId>
-			<artifactId>javaee-web-api</artifactId>
+			<artifactId>javaee-web</artifactId>
 			<version>6.0</version>
 			<scope>provided</scope>
 		</dependency>
